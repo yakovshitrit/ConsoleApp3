@@ -8,8 +8,65 @@ namespace ConsoleApp3
 {
     internal class Program
     {
-        static void Main(string[] args)
+      
+            
+            
+        static void print(string prints)
         {
+
         }
+        
+         static List<int> positive(List<int> arr)
+        {
+
+        }
+         static List<int> replacement(List<int> replace)
+        {
+
+        }
+        static int big(int n)
+        {
+
+        }
+        static int little(int n)
+        {
+
+        }
+
+        static int sum(int n)
+        {
+
+        }
+        static int average(int n)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            static void Main(string[] args)
+            {
+                
+
+
+                Console.WriteLine(myarr);
+
+            }
+        }
+
     }
+
 }
